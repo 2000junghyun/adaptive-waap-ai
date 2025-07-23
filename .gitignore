@@ -13,3 +13,7 @@ venv/
 
 # VS Code directory
 .vscode/
+
+# Large data file
+csv/
+data/
